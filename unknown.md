@@ -2,15 +2,21 @@
 <img width="1920" height="3287" alt="11" src="https://github.com/user-attachments/assets/230073a0-c366-4179-8558-1900e0bd2593" />
 
 ## App Information
-<img width="1920" height="2899" alt="22" src="https://github.com/user-attachments/assets/acafaac8-a79f-43fd-8463-4b32c5187291" />
+<img width="1920" height="2899" alt="screencapture-appstoreconnect-apple-apps-6754724306-distribution-info-2025-12-24-11_32_24" src="https://github.com/user-attachments/assets/3f36001e-d00b-4949-975c-26b9cec175d0" />
 
 ### Age Ratings (App Information)
 <img width="817" height="733" alt="Age Ratings 1" src="https://github.com/user-attachments/assets/e7e35ba1-0cfb-48af-9a1e-535b48ca3785" />
+</br>
 <img width="816" height="736" alt="Age Ratings 2" src="https://github.com/user-attachments/assets/e4de4bb7-7198-40ab-bece-ca73a9d51699" />
+</br>
 <img width="816" height="736" alt="Age Ratings 3" src="https://github.com/user-attachments/assets/7f0e3393-e24d-49bb-b28e-2a4355df719e" />
+</br>
 <img width="817" height="735" alt="Age Ratings 4" src="https://github.com/user-attachments/assets/59b039ff-9f81-4d87-bea5-1cc179fd3861" />
+</br>
 <img width="817" height="733" alt="Age Ratings 5" src="https://github.com/user-attachments/assets/7874f749-b689-4451-b0c2-7740e68a8aef" />
+</br>
 <img width="821" height="736" alt="Age Ratings 6" src="https://github.com/user-attachments/assets/5115a1cd-510a-448b-89b6-ecc2ef423315" />
+</br>
 <img width="817" height="733" alt="Age Ratings 7" src="https://github.com/user-attachments/assets/192d55ec-c9b5-48cc-b250-33ee5511543b" />
 
 ## App Privacy
