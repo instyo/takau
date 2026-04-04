@@ -2,46 +2,46 @@
   {
     "name": "Standard",
     "prompt": "chest-up framing, subject facing camera directly, torso angled 15 degrees to camera left, slight forward lean from the waist, shoulders relaxed and level, neutral confident expression, eyes direct to lens",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/standard.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/standard.jpg"
   },
   {
     "name": "Arms Crossed",
     "prompt": "waist-up framing, body turned 30 degrees to camera right, arms folded across the chest with forearms parallel to the ground, weight distributed evenly, chin slightly lifted, composed and assured expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/arms-crossed.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/arms-crossed.jpg"
   },
   {
     "name": "Angled Face",
     "prompt": "chest-up framing, body facing camera, head rotated 35 degrees to camera right, eyes redirected back to lens, chin neutral, jawline visible in three-quarter profile, calm direct expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/angled-face.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/angled-face.jpg"
   },
   {
     "name": "Hands at Hips",
     "prompt": "waist-up framing, both hands resting on hips with thumbs pointing backward, elbows flared outward at 45 degrees, torso upright and squared to camera, feet shoulder-width apart, strong neutral expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/hands-at-hips.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/hands-at-hips.jpg"
   },
   {
     "name": "Over the Shoulder",
     "prompt": "chest-up framing, body rotated 80 degrees to camera left, head turned back over the right shoulder toward the lens, chin level, eyes making direct contact with camera, upright posture, composed professional expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/over-the-shoulder.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/over-the-shoulder.jpg"
   },
   {
     "name": "Leaning In",
     "prompt": "chest-up framing, subject leaning forward from the waist toward the lens at roughly 20 degrees, weight on front foot, shoulders slightly forward, chin tucked slightly, engaged and approachable expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/leaning-in.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/leaning-in.jpg"
   },
   {
     "name": "Hands in Pockets",
     "prompt": "waist-up framing, both thumbs hooked into front pockets, weight shifted to the right leg creating a slight hip tilt, shoulders relaxed, torso angled 20 degrees to camera left, easy neutral expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/hands-in-pockets.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/hands-in-pockets.jpg"
   },
   {
     "name": "Lean Sideways",
     "prompt": "chest-up framing, camera left shoulder dropped 15 degrees lower than the right, spine creating a diagonal line, head remaining level and upright, torso facing camera, relaxed confident expression",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/leaning-sideways.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/leaning-sideways.jpg"
   },
   {
     "name": "Fists Up",
     "prompt": "waist-up framing, both hands loosely closed at chest height with knuckles facing the camera, elbows bent at 90 degrees and tucked close to the body, shoulders squared, determined neutral expression, studio portrait lighting",
-    "image": "https://cdn.jsdelivr.net/gh/instyo/takau@main/headshots/poses/fists-up.jpg"
+    "image": "https://raw.githubusercontent.com/instyo/takau/refs/heads/main/headshots/poses/fists-up.jpg"
   }
 ]
