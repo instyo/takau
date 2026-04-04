@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Standard",
+    "prompt": "facing the camera, leaning slightly forward with a straight back, and keeping their chest 10 to 45 degrees from the camera",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/standard.jpg"
+  },
+  {
+    "name": "Arms crossed",
+    "prompt": "waist-up professional stance with arms folded confidently and a slight 30-degree body turn",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/arms-crossed.jpg"
+  },
+  {
+    "name": "Angled Face",
+    "prompt": "Head turned 30-45 degrees away from the lens, eyes maintaining direct contact with the camera, emphasizing jawline definition and facial symmetry",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/angled-face.jpg"
+  },
+  {
+    "name": "Hands at Hips",
+    "prompt": "Confident power-stance, elbows flared slightly outward, hands resting firmly on the waist, creating a strong triangular silhouette with the upper body",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/hands-at-hips.jpg"
+  },
+  {
+    "name": "Over the Shoulder",
+    "prompt": "Body rotated 90 degrees away from the camera, head turned back toward the lens over the leading shoulder, creating a sense of depth and mystery",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/over-the-shoulder.jpg"
+  },
+  {
+    "name": "Leaning In",
+    "prompt": "Subject leaning forward from the waist toward the lens, weight shifted onto the front foot, creating an intimate and engaging perspective with a shallow depth of field",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/leaning-in.jpg"
+  },
+  {
+    "name": "Hands In Pockets",
+    "prompt": "Relaxed posture, thumbs hooked into pockets or hands tucked loosely, weight shifted to one leg for a natural, asymmetrical body line",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/hands-in-pockets.jpg"
+  },
+  {
+    "name": "Lean Sideways",
+    "prompt": "Body weight tilted toward a vertical axis, one shoulder dropped slightly lower than the other, creating a dynamic diagonal line through the torso",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/leaning-sideways.jpg"
+  },
+  {
+    "name": "Fists Up",
+    "prompt": "High-energy athletic stance, hands loosely balled into fists held at chest height, shoulders squared, conveying readiness and assertive drive",
+    "image": "https://cdn.statically.io/gh/instyo/takau@main/headshots/poses/fists-up.jpg"
+  }
+]
